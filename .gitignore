@@ -1,0 +1,4 @@
+config/config.ini
+log
+log/log.txt
+out.log
